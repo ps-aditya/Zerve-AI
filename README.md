@@ -5,7 +5,7 @@
 **Predicting Long‑Term User Success from Early Activity Signals**
 
 
-📄 [Hackathon Challenge](https://zerve2026.hackerearth.com/) | 🔗 [LinkedIn Post]((https://www.linkedin.com/posts/aditya-puthanthara-shaji_zerveai-productanalytics-machinelearning-activity-7444078898398523393-IY_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2orpsBLgXn7QhwlKMW7SttiqnW89mTgEk))
+📄 [Hackathon Challenge](https://zerve2026.hackerearth.com/) | 🔗 [LinkedIn Post](https://www.linkedin.com/posts/aditya-puthanthara-shaji_zerveai-productanalytics-machinelearning-activity-7444078898398523393-IY_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2orpsBLgXn7QhwlKMW7SttiqnW89mTgEk)
 
 </div>
 
@@ -29,7 +29,7 @@ Predict retention using only early activity signals from **409K+ events across 4
 ---
 
 ## 🔑 Key Insights
-- Retention is not gradual — it’s a **behavioral threshold**  
+- Retention is not gradual. It’s a **behavioral threshold**  
 - Retained users show **3× more sessions** and **4× more workflow execution** in week one  
 - Early **AI agent interaction** and workflow depth are strong predictors  
 - Funnel analysis revealed the **sign‑in → canvas creation step** as the biggest drop‑off  
