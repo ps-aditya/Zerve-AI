@@ -15,20 +15,20 @@ Key finding: only **2.24% of users stayed beyond 30 days**.
 
 ---
 
-## 🚀 The Challenge
+## The Challenge
 Predict retention using only early activity signals from **409K+ events across 4,774 users**.
 
 ---
 
-## ⚙️ Approach
-- ➡️ Transformed raw event logs into structured **user‑level datasets** with a binary retention target  
-- ➡️ Engineered **first‑7‑day features** across engagement, workflow depth, and AI usage  
-- ➡️ Performed **cohort analysis** to identify early behavioral differences  
-- ➡️ Applied **logistic regression**, achieving ~81% accuracy and **0.78 AUC**
+## Approach
+- Transformed raw event logs into structured **user‑level datasets** with a binary retention target  
+- Engineered **first‑7‑day features** across engagement, workflow depth, and AI usage  
+- Performed **cohort analysis** to identify early behavioral differences  
+- Applied **logistic regression**, achieving ~81% accuracy and **0.78 AUC**
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 - Retention is not gradual. It’s a **behavioral threshold**  
 - Retained users show **3× more sessions** and **4× more workflow execution** in week one  
 - Early **AI agent interaction** and workflow depth are strong predictors  
@@ -36,18 +36,18 @@ Predict retention using only early activity signals from **409K+ events across 4
 
 ---
 
-## 📊 Key Takeaway
+## Key Takeaway
 More activity alone doesn’t drive retention.  
 **Meaningful early engagement is what matters.**
 
 ---
 
-## 💻 Platform Experience
+## Platform Experience
 Zerve AI enabled a seamless workflow from raw data to modeling, making **rapid iteration and insight discovery** significantly more efficient.
 
 ---
 
-## 📂 Figures
+## Figures
 The analysis is supported by 8 figures:
 1. KPI Dashboard  
 2. Activation Thresholds  
@@ -60,13 +60,11 @@ The analysis is supported by 8 figures:
 
 ---
 
-## 🏆 Hackathon Context
-This project was submitted to the **Zerve AI × HackerEarth Open Innovation Challenge**.  
-Sharing publicly is part of the eligibility requirement for prizes.
-
+## Hackathon Context
+This project was submitted to the **Zerve AI × HackerEarth Open Innovation Challenge**. 
 ---
 
-## 📌 Hashtags
+## Hashtags
 `#ZerveAI #ProductAnalytics #MachineLearning #AIEngineering #UserRetention #Hackathon #HackathonChallenge #AIHackathon #DataScience #Analytics #RetentionModeling #UserEngagement #HackathonExperience #HackerEarth`
 
 ---
